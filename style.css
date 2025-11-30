@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(163, 249, 255);
+    font-family: "Comic Sans MS";
+    margin: 0;
+    
+}
+main{
+    text-align: center;
+}
+
+#fita{
+    width: 100vw;
+}
+
+.bolanatal{
+    width: 45px;
+}
